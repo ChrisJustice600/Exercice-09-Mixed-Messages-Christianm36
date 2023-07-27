@@ -13,4 +13,5 @@ function returnMessage () {
 };
 
 const message = returnMessage();
+// CONSOLOGé
 console.log(message)
